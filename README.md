@@ -1,5 +1,5 @@
 this project is on the pizza sales in 2015 
-Using SQL Exploratory Data Analysis to aneswer the following questions
+Using SQL Exploratory Data Analysis to answer the following questions
 
 
 1.Retrieve the total number of orders placed?
