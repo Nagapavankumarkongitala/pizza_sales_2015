@@ -28,4 +28,4 @@ Using SQL Exploratory Data Analysis to answer the following questions
 
 13.Determine the top 3 most ordered pizza types based on revenue for each pizza category?
 
-Note: the answers for each questions were separtley posted with code as .sql files in the repostory
+Note: the answers for each questions were separtley posted with code as .sql files in the repository
